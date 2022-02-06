@@ -3,7 +3,7 @@
 <body style="font-family:monotype corsiva;font-size:150%;">
 <h1 style="color:#ff00ff;">MYSELF</h1>
 <p style="color:#7226cf;">Hi, I am Debarghaya Mondal</p>
-<p style="color:#001eff;">I am 19 years young</p>
+<p style="color:#001eff;">I am 19 years old</p>
 <p style="color:#00e1ff;">I am learing web devlopment, android and java</p>
 <p style="color:#00ff88;">I am excited to work on projects involving coding and app devlopment</p>
 <p style="color:#1eff00;">I am interested in becoming a software devloper</p>
